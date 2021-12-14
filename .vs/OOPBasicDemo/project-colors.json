@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70ce4662-5bf6-4778-940c-23f95772bc6e": {
+      "ProjectGuid": "70ce4662-5bf6-4778-940c-23f95772bc6e",
+      "DisplayName": "OOPBasicDemoApp",
+      "ColorIndex": 0
+    },
+    "e7da6a0a-5310-47d5-8858-9bc8f840fef6": {
+      "ProjectGuid": "e7da6a0a-5310-47d5-8858-9bc8f840fef6",
+      "DisplayName": "OOPBasicDemoBusinessLogic",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

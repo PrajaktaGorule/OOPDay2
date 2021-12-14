@@ -37,11 +37,17 @@ namespace OOPBasicDemoBusinessLogic
            
         }
 
-        //Get Method
+        //Get Method  to get the ps number of the new joinee
         public int GetPSNumber()
         {
             return PaySlipNumber;
         }
 
+        //GetMethod
+
+        public string GetName()
+        {
+            return EmployeeName;
+        }
     }
 }
