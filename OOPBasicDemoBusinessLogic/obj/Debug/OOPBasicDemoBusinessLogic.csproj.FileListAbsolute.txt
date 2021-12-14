@@ -1,0 +1,6 @@
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoBusinessLogic\bin\Debug\OOPBasicDemoBusinessLogic.dll
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoBusinessLogic\bin\Debug\OOPBasicDemoBusinessLogic.pdb
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoBusinessLogic\obj\Debug\OOPBasicDemoBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoBusinessLogic\obj\Debug\OOPBasicDemoBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoBusinessLogic\obj\Debug\OOPBasicDemoBusinessLogic.dll
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoBusinessLogic\obj\Debug\OOPBasicDemoBusinessLogic.pdb

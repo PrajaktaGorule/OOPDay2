@@ -1,0 +1,11 @@
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\bin\Debug\OOPBasicDemoApp.exe.config
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\bin\Debug\OOPBasicDemoApp.exe
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\bin\Debug\OOPBasicDemoApp.pdb
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\bin\Debug\OOPBasicDemoBusinessLogic.dll
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\bin\Debug\OOPBasicDemoBusinessLogic.pdb
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\obj\Debug\OOPBasicDemoApp.csproj.AssemblyReference.cache
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\obj\Debug\OOPBasicDemoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\obj\Debug\OOPBasicDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\obj\Debug\OOPBasicDemoApp.csproj.CopyComplete
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\obj\Debug\OOPBasicDemoApp.exe
+C:\Users\40013016\Desktop\DecemberOOPCSharp\Day2\OOPBasicDemo\OOPBasicDemoApp\obj\Debug\OOPBasicDemoApp.pdb
